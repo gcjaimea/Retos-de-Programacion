@@ -82,7 +82,6 @@ print(variable_global)
 cad1 = "Jaime"
 cad2 = "Carlos"
             
-print("aqui!!!!")
 def retornar(cad1,cad2):
     count = 0
     for i in range (1,101):
